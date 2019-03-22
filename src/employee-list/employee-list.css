@@ -1,0 +1,22 @@
+a {
+    color: black;
+}
+
+table {
+    margin-top: 1rem;
+}
+
+.delbtn {
+    margin-left: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .btn {
+        width: 100%;
+    }
+    .delbtn {
+        margin-top: 5px;
+        margin-left: 0px;
+        width: 100%;
+    }
+}

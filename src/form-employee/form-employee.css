@@ -1,0 +1,16 @@
+a {
+    color: white;
+}
+
+.btnform {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .secondbtn {
+        margin-top: 5px;
+    }
+}
+
+
+

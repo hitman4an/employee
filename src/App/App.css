@@ -1,0 +1,26 @@
+.Employee-App {
+  text-align: center;
+   max-width: 768px;
+   margin: 2rem 1rem 0 1rem;
+}
+
+.table {
+  width: 98%;
+}
+
+.table thead th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table tbody td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 450px) {
+  .table {
+      width: 50%;
+  }
+}
+
